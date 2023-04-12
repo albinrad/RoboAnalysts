@@ -1,4 +1,4 @@
-# Project Name
+# In-Air Self-Stabilizing Rover
 
 This is a Python-based project that controls the In-Air Stabilization Rover. It is designed to actuate servos and hub motors, as well as take in an IMU input.
 
